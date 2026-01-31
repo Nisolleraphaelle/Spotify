@@ -1,0 +1,5 @@
+{
+  "name": "Spotify Social Leaderboard",
+  "description": "A playful social extension for Spotify featuring friend leaderboards, detailed activity stats, and interactive challenges.",
+  "requestFramePermissions": []
+}
